@@ -1,0 +1,69 @@
+#login {
+  
+    margin-left: 250px;
+    width:500px;
+    height:200px;
+}
+
+#logout {
+   margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+#signup {
+    margin-left: 250px;
+    width:500px;
+    height:200px;
+}
+
+#previousTest {
+   margin-top: 80px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    width:900px;
+}
+
+#text {
+    margin: 40px 0 0 300px;
+    font-size: 32px;
+}
+
+
+#start {
+/*    margin-top: 75px;*/
+    margin-bottom: 0px;
+    margin-left: 375px;
+    width:250px;
+    height: 50px;
+    font-size: 16px;
+    
+}
+#total{
+    font-family: serif;
+    font-size: 28px;
+    margin-left: 350px;
+}
+#ptest{
+    font-family: serif;
+    font-size: 24px;
+    margin-left: 200px;
+}
+#submit{
+    margin-bottom: 0px;
+    margin-left: 275px;
+    width:250px;
+    height: 50px;
+    font-size: 22px;
+}
+
+#message {
+	margin-top: 50px;
+    margin-bottom: 75px;
+	margin-left: 150px;
+	width: 700px;
+	font-size: 32px;
+}
+
+#message p {
+    text-align: center;
+}

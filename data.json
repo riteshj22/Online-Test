@@ -1,0 +1,85 @@
+{
+    "questions":[
+     
+        {
+            "q_id": 1,
+            "text":"Economist:  Every business strives to increase its productivity, for this increases profits for the owners and the likelihood that the business will survive. But not all efforts to increase productivity are beneficial to the business as a whole. Often, attempts to increase productivity decrease the number of employees, which clearly harms the dismissed employees as well as the sense of security of the retained employees.<br /><br />Which one of the following most accurately expresses the main conclusion of the economist's argument?",
+            "A":"If an action taken to secure the survival of a business fails to enhance the welfare of the business's employees, that action cannot be good for the business as a whole.",
+            "B":"Some measures taken by a business to increase productivity fail to be beneficial to the business as a whole.",
+            "C":"Only if the employees of a business are also its owners will the interests of the employees and owners coincide, enabling measures that will be beneficial to the business as a whole.",
+            "D":"There is no business that does not make efforts to increase its productivity.",
+            "E":"Decreasing the number of employees in a business undermines the sense of security of retained employees.",
+            "correct":"B"
+        },
+        {
+            "q_id": 2,
+            "text":"",
+            "A":"All students who study diligently make good grades. But some students who do not study diligently also make good grades. Jane studies somewhat diligently. Therefore, Jane makes somewhat good grades.",
+            "B":"All type A chemicals are extremely toxic to human beings. All type B chemicals are nontoxic to human beings. This household cleaner is a mixture of a type A chemical and a type B chemical. Therefore, this household cleaner is moderately toxic.",
+            "C":"All students at Hanson School live in Green County. All students at Edwards School live in Winn County. Members of the Perry family attend both Hanson and Edwards. Therefore, some members of the Perry family live in Green County and some live in Winn County.",
+            "D":"All transcriptionists know shorthand. All engineers know calculus. Bob has worked both as a transcriptionist and as an engineer. Therefore, Bob knows both shorthand and calculus.",
+            "E":"All of Kenisha's dresses are very well made. All of Connie's dresses are very badly made. Half of the dresses in this closet are very well made, and half of them are very badly made. Therefore, half of the dresses in this closet are Kenisha's and half of them are Connie's.",
+            "correct":"B"
+        },
+        {
+            "q_id": 3,
+            "text":"",
+            "A":"reminisce about their own lives",
+            "B":"fear that their own lives are about to end",
+            "C":"focus on what the next century will bring",
+            "D":"become very interested in the history of the century just ending",
+            "E":"reflect on how certain unfortunate events of the century could have been avoided",
+            "correct":"D"
+        },
+        {
+            "q_id": 4,
+            "text":"",
+            "A":"treats evidence that there is an apparent bias as evidence that the Connorly Report's claims are false",
+            "B":"draws a conclusion based solely on an unrepresentative sample of Ocksenfrey's products",
+            "C":"fails to take into account the possibility that Ocksenfrey has just as much motivation to create negative publicity for Danto as Danto has to create negative publicity for Ocksenfrey",
+            "D":"fails to provide evidence that Danto Foods' prepackaged meals are not more nutritious than Ocksenfrey's are",
+            "E":"presumes, without providing justification, that Danto Foods' public  relations department would not approve a draft of a report that was hostile to Danto Foods' products",
+            "correct":"B"
+        },
+        {
+            "q_id": 5,
+            "text":"",
+            "A":"Only some of the minor gases whose presence in the atmosphere allegedly resulted in the phenomenon described by the scientist were produced by industrial pollution.",
+            "B":"Most of the warming occurred before 1940, while most of the buildup of minor gases in the atmosphere occurred after 1940.",
+            "C":"Over the last century, Earth received slightly more solar radiation in certain years than it did in others.",
+            "D":"Volcanic dust and other particles in the atmosphere reflect much of the Sun's radiation back into space before it can reach Earth's surface.",
+            "E":"The accumulation of minor gases in the atmosphere has been greater over the last century than at any other time in Earth's history.",
+            "correct":"A"
+        },
+         {
+            "q_id": 6,
+            "text":"",
+            "A":"Anyone with a master's degree and without a felony conviction is eligible for appointment to the executive board.",
+            "B":"Only candidates eligible for appointment to the executive board can be accepted for the position of Executive Administrator.",
+            "C":"An undergraduate degree is not necessary for acceptance for the position of Executive Administrator.",
+            "D":"If Murray did not have a felony conviction, he would be accepted for the position of Executive Administrator.",
+            "E":"The felony charge on which Murray was convicted is relevant to the duties of the position of Executive Administrator.",
+            "correct":"B"
+        },
+         {
+            "q_id": 7,
+            "text":"",
+            "A":"Bobby contributed money to a local charity during a charity drive at work because he worried that not doing so would make him look stingy.",
+            "B":"Wes contributed money to a local charity during a charity drive at work because he believed that doing so would improve his employer's opinion of him.",
+            "C":"Donna's employers engaged in an illegal but profitable practice that caused serious damage to the environment. Donna did not report this practice to the authorities, out of fear that her employers would retaliate against her.",
+            "D":"Jadine's employers engaged in an illegal but profitable practice that caused serious damage to the environment. Jadine reported this practice to the authorities out of a belief that protecting the environment is always more important than monetary profit.",
+            "E":"Leigh's employers engaged in an illegal but profitable practice that caused serious damage to the environment. Leigh reported this practice to the authorities only because several colleagues had been pressuring her to do so.",
+            "correct":"D"
+        },
+         {
+            "q_id": 8,
+            "text":"",
+            "A":"Most people 17 years old or older have never purchased a video game.",
+            "B":"Video game rentals have declined over the past 3 years.",
+            "C":"New technology will undoubtedly make entirely new entertainment options available over the next 10 years.",
+            "D":"The number of different types of video games available is unlikely to decrease in the near future.",
+            "E":"Most of the people who have purchased video games over the past 3 years are over the age of 16.",
+            "correct":"E"
+        }
+    ]
+}

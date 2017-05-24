@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <TITLE>TEST</TITLE>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="tets.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+
+</head>
+<body>
+    <!-- External Scripts -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="controller.js"></script>
+
+    
+    <div class="container">
+        <div id="message" class="row well well-sm col-lg-6 col-md-6 col-sm-5 col-xs-2"><p> Login with your email address</p></div>
+        
+        <div id="login" class = "well well-lg col-lg-6 col-md-6 col-sm-5 col-xs-2" >
+            <form>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="loginEmail" aria-describedby="emailHelp" placeholder="Enter email">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+                <div>
+                
+                <button id ="login1"   type="button" class= "btn btn-default">LOGIN</button>
+                <button id ="signupButton" type="button" class= "btn btn-default">SIGNUP</button> 
+                </div>
+            </form>
+        </div>
+        
+        
+        <div id ="signup" class = "well well-lg col-lg-6 col-md-6 col-sm-5 col-xs-2">
+            <form>
+              <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="signupEmail" aria-describedby="emailHelp" placeholder="Enter email">
+
+            </div>
+                <div>
+                <button id ="signup1" type="button" class= "btn btn-default">SIGNUP</button> 
+                </div>   
+            </form>
+            </div>
+        
+         <div id= "logout1">
+                <button type="button" class = "btn btn-danger pull-right"  id="logout">LOGOUT</button>
+        </div>
+    
+        <div id="previousTest" class = " row well well-lg col-lg-12 col-md-6 col-sm-5 col-xs-2" ></div>
+    
+        <br><br><br><br><br><br><br><br>
+        
+        <div id="startPage" class = " row col-lg-12 col-md-6 col-sm-5 col-xs-2">
+<!--
+            <div class="form-group">
+                <label for="sel1">Select Category:</label>
+                <select class="form-control" id="sel1">
+                    <option value="eco">Eco</option>
+                    <option value="history">History</option>
+                </select>
+            </div> 
+-->
+        
+<!--        To display user Information-->
+        <div id="identity"></div>
+           
+        
+    
+        <div class="row">
+             <p id = "text">Click on START button to start the test</p>
+        </div>
+        <br><br>
+        <button id ="start" type="button" class= "btn btn-success">START</button> 
+        <br>
+    </div>
+    
+        <div id="test">
+        <!-- Review Button -->
+           
+            <div class="reviewButton" align="right">
+                <button type="button" class = "btn btn-primary" id="review">REVIEW</button>
+                <div id = "question_list"></div>
+            </div>
+            <br>
+           
+            <br>
+
+            <!-- To display the Questions and Answer choices -->
+            
+            <div id="options"></div>
+            
+            <br>
+            <!-- ACTIONS -->
+            
+            <div>
+                <button type="button" class = "btn btn-default"  id="back" >BACK</button> 
+                <button type="button" class = "btn btn-default pull-right"  id="next" align="right">NEXT</button>     
+<!--            <button type="button" class = "btn btn-default" id="back">BACK</button>-->
+            </div>
+            
+            <div id= "submit">
+                <button type="button" class = "btn btn-default"  id="submit">SUBMIT</button>
+            </div>
+        
+        </div>
+    
+<!--        Final DIV used  to display the score for the user -->
+        <div id="final" class="well"></div>
+    </div>
+     
+</body>
+</html>
